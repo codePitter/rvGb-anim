@@ -1,0 +1,6 @@
+{
+  "name": "AnimFondo Studio",
+  "description": "Estudio interactivo para cambiar el fondo de cualquier imagen, recortar sujetos y aplicar asombrosas animaciones 2.5D, efectos de movimiento y exportación de video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
